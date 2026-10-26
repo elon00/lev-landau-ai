@@ -1,0 +1,14 @@
+{
+  "project": "lev-landau-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "38sKYxmR3fDeYZxNS9rLDUHgnTa1BTquDu4J7G4L36xu",
+  "vault_account": "94uCfzwsqHcCBGpHo9tZxWzPGZQCpn4CPpmv2WhyC8m9",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "4snvCNySKbQdjKxmfRyGYLCJSYTwa3yr7HFfeyRBeEBZLSVaABZq2oQMWJ5Pejxq5uQ3ggUw2dJWAsXd3ACEfdTp",
+  "account_tx": "9Yh54hRQAG5nNdhwBaA8Md1fgb6zTSbx78vcVUDoHoKzZFn3o9dTG94CkKnPjbXKZ4wX4j2t93XYc4QJZz7rpB3",
+  "mint_tx": "5TZmKU4HYrL794HyWNViriuwwSh8fd65QXTCFd9UsMKyr2UMd7oPGsfDtQxf31hZPw6oLbK15fELD8ciffENSFvo",
+  "solana_explorer_mint": "https://explorer.solana.com/address/38sKYxmR3fDeYZxNS9rLDUHgnTa1BTquDu4J7G4L36xu?cluster=devnet",
+  "timestamp": "2026-10-26 16:46:42 UTC"
+}
